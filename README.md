@@ -1,14 +1,44 @@
 #EXTM3U
-
-#EXTINF:-1,cartoon network
-https://espare.tk/live/cartoon_network_lat.m3u8?token=3dlM41_Qh21U0_NOgX1Fig&expires=1605035714
-#EXTINF:-1,discovery kid
-https://espare.tk/live/discovery_kids_lat.m3u8?token=lXDsI1_omH5LAkAppXV-Mw&expires=1605035759
-#EXTINF:-1,disney jr
-https://espare.tk/live/disney_jr_lat.m3u8?token=sU3RoKs_ykYg5klkU2siWg&expires=1605035804
-#EXTINF:-1,disney xd
-https://espare.tk/live/disney_xd_lat.m3u8?token=2dRXt9O_SA1HxGBvHMm1Gg&expires=1605035859
-#EXTINF:-1,disney chanel
-https://espare.tk/live/disney_channel_lat.m3u8?token=B657LRXzUelmVg7huGLrTw&expires=1605035906
-#EXTINF:-1,nick
-https://espare.tk/live/nick_lat.m3u8?token=IA5OD_lF1LMnuhbo9uaBHA&expires=1605035946
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:93227
+#EXT-X-TARGETDURATION:4
+#EXTINF:4.004,
+glaldsq-11354760.ts
+#EXTINF:2.002,
+glaldsq-11715120.ts
+#EXTINF:4.004,
+glaldsq-11895300.ts
+#EXTINF:2.002,
+glaldsq-12255660.ts
+#EXTINF:4.004,
+glaldsq-12435840.ts
+#EXTINF:2.002,
+glaldsq-12796200.ts
+#EXTINF:4.004,
+glaldsq-12976380.ts
+#EXTINF:2.002,
+glaldsq-13336740.ts
+#EXTINF:3.971,
+glaldsq-13516920.ts
+#EXTINF:2.035,
+glaldsq-13874310.ts
+#EXTINF:4.004,
+glaldsq-14057460.ts
+#EXTINF:2.002,
+glaldsq-14417820.ts
+#EXTINF:4.004,
+glaldsq-14598000.ts
+#EXTINF:2.002,
+glaldsq-14958360.ts
+#EXTINF:4.004,
+glaldsq-15138540.ts
+#EXTINF:2.002,
+glaldsq-15498900.ts
+#EXTINF:3.003,
+glaldsq-15679080.ts
+#EXTINF:3.003,
+glaldsq-15949350.ts
+#EXTINF:4.004,
+glaldsq-16219620.ts
+#EXTINF:2.002,
+glaldsq-16579980.ts
